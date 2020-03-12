@@ -7,7 +7,7 @@ sections:
       vehicula et gravida elementum
     section_id: one
     component: icons.html
-    background_style: style2
+    background_style: style4
     icons:
       - title: Shoot
         icon: fa-camera-retro
@@ -63,7 +63,7 @@ sections:
         url: '#'
         is_primary: true
         is_scrolly: false
-      - label: Learn More
+      - label: Pelajari
         url: /elements
         is_primary: false
         is_scrolly: false
