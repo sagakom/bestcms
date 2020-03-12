@@ -1,13 +1,13 @@
 social_icons:
   - title: Facebook
     icon: fa-facebook
-    url: '#'
+    url: 'https://web.facebook.com/CakBejoKemayangan'
   - title: Twitter
     icon: fa-twitter
-    url: '#'
+    url: 'https://twitter.com/sagakom'
   - title: Instagram
     icon: fa-instagram
-    url: '#'
+    url: 'https://www.instagram.com/cakmat625/'
 copyright: '&copy; RAFIKCMS.'
 links:
   - text: Made with RAFIKCMS
